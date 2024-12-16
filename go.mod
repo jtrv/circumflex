@@ -21,12 +21,13 @@ require (
 	golang.org/x/net v0.0.0-20210726213435-c6fcb2dbf985 // indirect
 )
 
+require github.com/bobesa/go-domain-util v0.0.0-20190911083921-4033b5f7dd89
+
 require (
 	code.rocketnine.space/tslocum/cbind v0.1.5 // indirect
 	github.com/alecthomas/chroma v0.8.2 // indirect
 	github.com/andybalholm/cascadia v1.2.0 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
-	github.com/bobesa/go-domain-util v0.0.0-20190911083921-4033b5f7dd89 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
@@ -56,5 +57,5 @@ require (
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
 	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
